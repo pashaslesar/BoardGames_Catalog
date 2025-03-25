@@ -1,0 +1,11 @@
+C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataModels\bin\Debug\net8.0\DataModels.deps.json
+C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataModels\bin\Debug\net8.0\DataModels.dll
+C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataModels\bin\Debug\net8.0\DataModels.pdb
+C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataModels\obj\Debug\net8.0\DataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataModels\obj\Debug\net8.0\DataModels.AssemblyInfoInputs.cache
+C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataModels\obj\Debug\net8.0\DataModels.AssemblyInfo.cs
+C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataModels\obj\Debug\net8.0\DataModels.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataModels\obj\Debug\net8.0\DataModels.dll
+C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataModels\obj\Debug\net8.0\refint\DataModels.dll
+C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataModels\obj\Debug\net8.0\DataModels.pdb
+C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataModels\obj\Debug\net8.0\ref\DataModels.dll
