@@ -16,10 +16,13 @@ namespace BoardGames_Semestralka;
 public partial class MainWindow : Window
 {
     List<Game> games = new List<Game>();
+
     private RadioButton? lastCheckedAgeButton = null;
     private RadioButton? lastCheckedPlayTimeButton = null;
+
     private List<Game> favoriteGames = new List<Game>();
     private HashSet<int> favoriteGameIds = new();
+
     private int selectedAge = -1;
 
     public MainWindow()
@@ -348,8 +351,34 @@ public partial class MainWindow : Window
                 DisplayGames(favoriteGames, favoritesPanel);
             };
 
+            Button deleteButton = new Button
+            {
+                Content = "🗑️",
+                Background = Brushes.Transparent,
+                BorderBrush = Brushes.Transparent,
+                Cursor = Cursors.Hand,
+                FontSize = 16,
+                Margin = new Thickness(5),
+                HorizontalAlignment = HorizontalAlignment.Right
+            };
+
+            deleteButton.Click += (s, e) =>
+            {
+                var dialog = new ConfirmDialog($"Opravdu chcete odstranit hru '{game.Name}'?");
+                dialog.Owner = this;
+                dialog.ShowDialog();
+
+                if (dialog.Result)
+                {
+                    DBController.DeleteGame(game.Id);
+                    games = DBController.GetGames();
+                    ApplyAllFilters();
+                }
+            };
+
             mainPanel.Children.Add(image);
             mainPanel.Children.Add(heartButton);
+            mainPanel.Children.Add(deleteButton);
             mainPanel.Children.Add(infoPanel);
             mainPanel.Children.Add(ageBlock);
             mainPanel.Children.Add(autorBlock);
@@ -439,5 +468,34 @@ public partial class MainWindow : Window
 
         games = DBController.GetGames();
         ApplyAllFilters();
+    }
+
+    private void AddGenre_Click(object sender, RoutedEventArgs e)
+    {
+        var dialog = new AddGenreDialog();
+        dialog.Owner = this;
+        if (dialog.ShowDialog() == true)
+        {
+            string newGenre = dialog.GenreName;
+
+            if (!string.IsNullOrWhiteSpace(newGenre))
+            {
+                if (!DBController.GenreExists(newGenre))
+                {
+                    DBController.AddGenre(newGenre);
+                    LoadGenres();
+
+                    var successDialog = new OKDialog($"Žánr '{newGenre}' byl úspěšně přidán.");
+                    successDialog.Owner = this;
+                    successDialog.ShowDialog();
+                }
+                else
+                {
+                    var infoDialog = new OKDialog("Tento žánr již existuje.");
+                    infoDialog.Owner = this;
+                    infoDialog.ShowDialog();
+                }
+            }
+        }
     }
 }

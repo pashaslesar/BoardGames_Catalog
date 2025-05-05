@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataControll")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ac75c72406038ea4fed83c834c31ef68d652980")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0609e4754d95f9bf100aeb8b6df4cfaaef603d71")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataControll")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataControll")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

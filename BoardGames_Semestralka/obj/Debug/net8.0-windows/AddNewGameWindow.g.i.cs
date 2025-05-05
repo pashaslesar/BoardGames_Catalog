@@ -140,7 +140,7 @@ namespace BoardGames_Semestralka {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/BoardGames_Semestralka;component/addnewgamewindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/BoardGames_Semestralka;V1.0.0.0;component/addnewgamewindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\AddNewGameWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

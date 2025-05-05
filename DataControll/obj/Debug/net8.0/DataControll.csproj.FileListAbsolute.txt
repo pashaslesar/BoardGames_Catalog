@@ -9,10 +9,10 @@ C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataControll\obj\Debug\net8.0
 C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataControll\obj\Debug\net8.0\DataControll.AssemblyInfoInputs.cache
 C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataControll\obj\Debug\net8.0\DataControll.AssemblyInfo.cs
 C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataControll\obj\Debug\net8.0\DataControll.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataControll\obj\Debug\net8.0\DataControll.sourcelink.json
 C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataControll\obj\Debug\net8.0\DataCont.A204407F.Up2Date
 C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataControll\obj\Debug\net8.0\DataControll.dll
 C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataControll\obj\Debug\net8.0\refint\DataControll.dll
 C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataControll\obj\Debug\net8.0\DataControll.pdb
 C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataControll\obj\Debug\net8.0\DataControll.genruntimeconfig.cache
 C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataControll\obj\Debug\net8.0\ref\DataControll.dll
-C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataControll\obj\Debug\net8.0\DataControll.sourcelink.json

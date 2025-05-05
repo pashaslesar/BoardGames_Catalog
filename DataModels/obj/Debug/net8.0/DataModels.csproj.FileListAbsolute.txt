@@ -5,6 +5,7 @@ C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataModels\obj\Debug\net8.0\D
 C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataModels\obj\Debug\net8.0\DataModels.AssemblyInfoInputs.cache
 C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataModels\obj\Debug\net8.0\DataModels.AssemblyInfo.cs
 C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataModels\obj\Debug\net8.0\DataModels.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataModels\obj\Debug\net8.0\DataModels.sourcelink.json
 C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataModels\obj\Debug\net8.0\DataModels.dll
 C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataModels\obj\Debug\net8.0\refint\DataModels.dll
 C:\Users\Pasha\source\repos\BoardGames_Semestralka\DataModels\obj\Debug\net8.0\DataModels.pdb

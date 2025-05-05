@@ -8,7 +8,6 @@ namespace DataControll
 {
     public class DBController
     {
-
         private static string connectionString = "Data Source=BoardDataBase.db; Version=3;";
 
         public static List<string> GetGenres()
@@ -271,7 +270,6 @@ namespace DataControll
             }
         }
 
-
         public static void AddGameGenre(int gameId, int genreId)
         {
             using (var connection = new SQLiteConnection(connectionString))
@@ -284,6 +282,50 @@ namespace DataControll
 
                 command.ExecuteNonQuery();
             }
+        }
+
+        public static void DeleteGame(int gameId)
+        {
+            using (var connection = new SQLiteConnection(connectionString))
+            {
+                connection.Open();
+
+                using var transaction = connection.BeginTransaction();
+
+                // Удаляем связи с жанрами
+                var deleteCategories = new SQLiteCommand("DELETE FROM GameCategories WHERE GameId = @id", connection);
+                deleteCategories.Parameters.AddWithValue("@id", gameId);
+                deleteCategories.ExecuteNonQuery();
+
+                // Удаляем игру
+                var deleteGame = new SQLiteCommand("DELETE FROM Games WHERE Id = @id", connection);
+                deleteGame.Parameters.AddWithValue("@id", gameId);
+                deleteGame.ExecuteNonQuery();
+
+                transaction.Commit();
+            }
+        }
+
+        public static void AddGenre(string genreName)
+        {
+            using var connection = new SQLiteConnection(connectionString);
+            connection.Open();
+
+            var command = new SQLiteCommand("INSERT INTO Genres (Name) VALUES (@name)", connection);
+            command.Parameters.AddWithValue("@name", genreName.Trim());
+            command.ExecuteNonQuery();
+        }
+
+        public static bool GenreExists(string genreName)
+        {
+            using var connection = new SQLiteConnection(connectionString);
+            connection.Open();
+
+            var command = new SQLiteCommand("SELECT COUNT(*) FROM Genres WHERE Name = @name", connection);
+            command.Parameters.AddWithValue("@name", genreName.Trim());
+
+            long count = (long)command.ExecuteScalar();
+            return count > 0;
         }
     }
 }

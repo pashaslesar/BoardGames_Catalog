@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 C:\Users\Pasha\source\repos\BoardGames_Semestralka\BoardGames_Semestralka\App.xaml
-21154810638
+5-1072987931
 24861354357
-7-333926464
+10902429174
 2051981085502
-AddNewGameWindow.xaml;MainWindow.xaml;
+AddGenreDialog.xaml;AddNewGameWindow.xaml;ConfirmDialog.xaml;MainWindow.xaml;OKDialog.xaml;
 
 False
 

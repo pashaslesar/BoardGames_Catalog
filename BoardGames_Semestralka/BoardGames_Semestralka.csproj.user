@@ -2,7 +2,16 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
+    <Compile Update="AddGenreDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="AddNewGameWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ConfirmDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="OKDialog.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>

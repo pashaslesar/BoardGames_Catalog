@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\Pasha\source\repos\BoardGames_Semestralka\BoardGames_Semestralka\App.xaml
-21154810638
+5-1072987931
 24861354357
-51786411414
+8-1272200244
 2051981085502
-AddNewGameWindow.xaml;MainWindow.xaml;
+AddGenreDialog.xaml;AddNewGameWindow.xaml;ConfirmDialog.xaml;MainWindow.xaml;OKDialog.xaml;
 
 False
 

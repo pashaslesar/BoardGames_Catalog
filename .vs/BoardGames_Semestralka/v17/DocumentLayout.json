@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Pasha\\source\\repos\\BoardGames_Semestralka\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FCAE3A2F-A838-41F2-BE67-BEAD9FB5F585}|DataControll\\DataControll.csproj|c:\\users\\pasha\\source\\repos\\boardgames_semestralka\\datacontroll\\dbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAE3A2F-A838-41F2-BE67-BEAD9FB5F585}|DataControll\\DataControll.csproj|solutionrelative:datacontroll\\dbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F94C12AE-FCDB-45A9-A491-8A0E86036695}|BoardGames_Semestralka\\BoardGames_Semestralka.csproj|c:\\users\\pasha\\source\\repos\\boardgames_semestralka\\boardgames_semestralka\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F94C12AE-FCDB-45A9-A491-8A0E86036695}|BoardGames_Semestralka\\BoardGames_Semestralka.csproj|solutionrelative:boardgames_semestralka\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F94C12AE-FCDB-45A9-A491-8A0E86036695}|BoardGames_Semestralka\\BoardGames_Semestralka.csproj|c:\\users\\pasha\\source\\repos\\boardgames_semestralka\\boardgames_semestralka\\addnewgamewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F94C12AE-FCDB-45A9-A491-8A0E86036695}|BoardGames_Semestralka\\BoardGames_Semestralka.csproj|solutionrelative:boardgames_semestralka\\addnewgamewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F94C12AE-FCDB-45A9-A491-8A0E86036695}|BoardGames_Semestralka\\BoardGames_Semestralka.csproj|c:\\users\\pasha\\source\\repos\\boardgames_semestralka\\boardgames_semestralka\\addnewgamewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F94C12AE-FCDB-45A9-A491-8A0E86036695}|BoardGames_Semestralka\\BoardGames_Semestralka.csproj|solutionrelative:boardgames_semestralka\\addnewgamewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F94C12AE-FCDB-45A9-A491-8A0E86036695}|BoardGames_Semestralka\\BoardGames_Semestralka.csproj|c:\\users\\pasha\\source\\repos\\boardgames_semestralka\\boardgames_semestralka\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{F94C12AE-FCDB-45A9-A491-8A0E86036695}|BoardGames_Semestralka\\BoardGames_Semestralka.csproj|solutionrelative:boardgames_semestralka\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCAE3A2F-A838-41F2-BE67-BEAD9FB5F585}|DataControll\\DataControll.csproj|c:\\users\\pasha\\source\\repos\\boardgames_semestralka\\datacontroll\\dbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCAE3A2F-A838-41F2-BE67-BEAD9FB5F585}|DataControll\\DataControll.csproj|solutionrelative:datacontroll\\dbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F94C12AE-FCDB-45A9-A491-8A0E86036695}|BoardGames_Semestralka\\BoardGames_Semestralka.csproj|c:\\users\\pasha\\source\\repos\\boardgames_semestralka\\boardgames_semestralka\\okdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94C12AE-FCDB-45A9-A491-8A0E86036695}|BoardGames_Semestralka\\BoardGames_Semestralka.csproj|solutionrelative:boardgames_semestralka\\okdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94C12AE-FCDB-45A9-A491-8A0E86036695}|BoardGames_Semestralka\\BoardGames_Semestralka.csproj|c:\\users\\pasha\\source\\repos\\boardgames_semestralka\\boardgames_semestralka\\okdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F94C12AE-FCDB-45A9-A491-8A0E86036695}|BoardGames_Semestralka\\BoardGames_Semestralka.csproj|solutionrelative:boardgames_semestralka\\okdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94C12AE-FCDB-45A9-A491-8A0E86036695}|BoardGames_Semestralka\\BoardGames_Semestralka.csproj|c:\\users\\pasha\\source\\repos\\boardgames_semestralka\\boardgames_semestralka\\confirmdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F94C12AE-FCDB-45A9-A491-8A0E86036695}|BoardGames_Semestralka\\BoardGames_Semestralka.csproj|solutionrelative:boardgames_semestralka\\confirmdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94C12AE-FCDB-45A9-A491-8A0E86036695}|BoardGames_Semestralka\\BoardGames_Semestralka.csproj|c:\\users\\pasha\\source\\repos\\boardgames_semestralka\\boardgames_semestralka\\addnewgamewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94C12AE-FCDB-45A9-A491-8A0E86036695}|BoardGames_Semestralka\\BoardGames_Semestralka.csproj|solutionrelative:boardgames_semestralka\\addnewgamewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,67 +38,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AddNewGameWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Pasha\\source\\repos\\BoardGames_Semestralka\\BoardGames_Semestralka\\AddNewGameWindow.xaml",
-              "RelativeDocumentMoniker": "BoardGames_Semestralka\\AddNewGameWindow.xaml",
-              "ToolTip": "C:\\Users\\Pasha\\source\\repos\\BoardGames_Semestralka\\BoardGames_Semestralka\\AddNewGameWindow.xaml",
-              "RelativeToolTip": "BoardGames_Semestralka\\AddNewGameWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-25T17:43:32.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddNewGameWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Pasha\\source\\repos\\BoardGames_Semestralka\\BoardGames_Semestralka\\AddNewGameWindow.xaml.cs",
-              "RelativeDocumentMoniker": "BoardGames_Semestralka\\AddNewGameWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Pasha\\source\\repos\\BoardGames_Semestralka\\BoardGames_Semestralka\\AddNewGameWindow.xaml.cs",
-              "RelativeToolTip": "BoardGames_Semestralka\\AddNewGameWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T17:42:59.403Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "OKDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Pasha\\source\\repos\\BoardGames_Semestralka\\BoardGames_Semestralka\\OKDialog.xaml.cs",
+              "RelativeDocumentMoniker": "BoardGames_Semestralka\\OKDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\Pasha\\source\\repos\\BoardGames_Semestralka\\BoardGames_Semestralka\\OKDialog.xaml.cs",
+              "RelativeToolTip": "BoardGames_Semestralka\\OKDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:04:27.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OKDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Pasha\\source\\repos\\BoardGames_Semestralka\\BoardGames_Semestralka\\OKDialog.xaml",
+              "RelativeDocumentMoniker": "BoardGames_Semestralka\\OKDialog.xaml",
+              "ToolTip": "C:\\Users\\Pasha\\source\\repos\\BoardGames_Semestralka\\BoardGames_Semestralka\\OKDialog.xaml",
+              "RelativeToolTip": "BoardGames_Semestralka\\OKDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-05T18:04:12.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfirmDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Pasha\\source\\repos\\BoardGames_Semestralka\\BoardGames_Semestralka\\ConfirmDialog.xaml",
+              "RelativeDocumentMoniker": "BoardGames_Semestralka\\ConfirmDialog.xaml",
+              "ToolTip": "C:\\Users\\Pasha\\source\\repos\\BoardGames_Semestralka\\BoardGames_Semestralka\\ConfirmDialog.xaml",
+              "RelativeToolTip": "BoardGames_Semestralka\\ConfirmDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-05T17:45:42.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Pasha\\source\\repos\\BoardGames_Semestralka\\BoardGames_Semestralka\\MainWindow.xaml",
               "RelativeDocumentMoniker": "BoardGames_Semestralka\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\Pasha\\source\\repos\\BoardGames_Semestralka\\BoardGames_Semestralka\\MainWindow.xaml",
               "RelativeToolTip": "BoardGames_Semestralka\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-25T00:36:54.932Z",
+              "WhenOpened": "2025-05-05T17:32:18.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "AddNewGameWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Pasha\\source\\repos\\BoardGames_Semestralka\\BoardGames_Semestralka\\AddNewGameWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BoardGames_Semestralka\\AddNewGameWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Pasha\\source\\repos\\BoardGames_Semestralka\\BoardGames_Semestralka\\AddNewGameWindow.xaml.cs",
+              "RelativeToolTip": "BoardGames_Semestralka\\AddNewGameWindow.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwFYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T17:42:59.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Pasha\\source\\repos\\BoardGames_Semestralka\\BoardGames_Semestralka\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "BoardGames_Semestralka\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Pasha\\source\\repos\\BoardGames_Semestralka\\BoardGames_Semestralka\\MainWindow.xaml.cs",
               "RelativeToolTip": "BoardGames_Semestralka\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAYBAAAAAAAAAAAEwDIBAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAIwPIBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T18:38:40.163Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "DBController.cs",
               "DocumentMoniker": "C:\\Users\\Pasha\\source\\repos\\BoardGames_Semestralka\\DataControll\\DBController.cs",
               "RelativeDocumentMoniker": "DataControll\\DBController.cs",
               "ToolTip": "C:\\Users\\Pasha\\source\\repos\\BoardGames_Semestralka\\DataControll\\DBController.cs",
               "RelativeToolTip": "DataControll\\DBController.cs",
-              "ViewState": "AgIAAN8AAAAAAAAAAAAgwAMBAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwCsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T18:53:05.379Z",
               "EditorCaption": ""

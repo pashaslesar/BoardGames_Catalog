@@ -1,0 +1,15 @@
+﻿<Window x:Class="BoardGames_Semestralka.OKDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize"
+        WindowStyle="None"
+        SizeToContent="WidthAndHeight"
+        Background="#FFFBEF"
+        Title="Info">
+    <StackPanel Margin="20">
+        <TextBlock x:Name="MessageText" FontSize="14" TextWrapping="Wrap" Margin="0,0,0,10"/>
+        <Button Content="OK" Width="80" HorizontalAlignment="Right" Click="OK_Click"
+                Background="#FF9A895F" Foreground="White"/>
+    </StackPanel>
+</Window>
